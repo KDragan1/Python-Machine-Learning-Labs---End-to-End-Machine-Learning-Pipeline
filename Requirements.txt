@@ -1,0 +1,17 @@
+Python 3+
+Pandas
+Numpy
+Seaborn
+Matplotlib
+Nltk
+Spacy
+sklearn
+nltk
+math
+functools
+textblob
+language_tool_python
+textstat
+spellChecker
+counter
+Time to run all models and approaches
